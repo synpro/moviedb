@@ -10,7 +10,7 @@
         }
       , "find" : {
             "" : { "resource": "find/:id", "method": "get" }
-      	}
+        }
       , "search" : {
             "Movie" : { "resource": "search/movie", "method": "get" } 
           , "Collection"  : { "resource": "search/collection", "method": "get" }
