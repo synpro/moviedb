@@ -56,6 +56,7 @@
       , "person" : {
             "Info" : { "resource": "person/:id", "method": "get" }
           , "Credits" : { "resource": "person/:id/credits", "method": "get" }
+          , "MovieCredits" : { "resource": "person/:id/movie_credits", "method": "get" }
           , "Images" : { "resource": "person/:id/images", "method": "get" }
           , "Changes" : { "resource": "person/:id/changes", "method": "get" }
           , "Latest" : { "resource": "person/latest", "method": "get" }

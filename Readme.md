@@ -53,6 +53,7 @@ All themoviedb.org API v3 methods included (I have plans to change this method n
 | movieSimilar | movie/:id/similar_movies |
 | personInfo | person/:id |
 | personCredits | person/:id/credits |
+| personMovieCredits | person/:id/movie_credits |
 | personImages | person/:id/images |
 | miscLatestMovie | latest/movie |
 | miscNowPlaying | movie/now-playing |
